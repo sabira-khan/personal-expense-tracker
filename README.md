@@ -1,4 +1,8 @@
-# personal-expense-tracker
+# Volunteer project: vu3 with simple project
+
+simple live project to teach vue3 to beginners
+
+## personal-expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
 
