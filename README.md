@@ -1,4 +1,4 @@
-# Volunteer project: vu3 with simple project
+# Volunteer project: Intro to Vue3 with simple project
 
 simple live project to teach vue3 to beginners
 
